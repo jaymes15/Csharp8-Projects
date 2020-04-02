@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TRAINING.ENTRY/1.0.0": {
+        "dependencies": {
+          "TRAINING.DATABASE": "1.0.0",
+          "TRAINING.SYNTAX": "1.0.0"
+        },
+        "runtime": {
+          "TRAINING.ENTRY.dll": {}
+        }
+      },
+      "TRAINING.DATABASE/1.0.0": {
+        "runtime": {
+          "TRAINING.DATABASE.dll": {}
+        }
+      },
+      "TRAINING.SYNTAX/1.0.0": {
+        "runtime": {
+          "TRAINING.SYNTAX.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TRAINING.ENTRY/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TRAINING.DATABASE/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TRAINING.SYNTAX/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

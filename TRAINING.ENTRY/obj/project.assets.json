@@ -1,0 +1,111 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TRAINING.DATABASE/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/TRAINING.DATABASE.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TRAINING.DATABASE.dll": {}
+        }
+      },
+      "TRAINING.SYNTAX/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/TRAINING.SYNTAX.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TRAINING.SYNTAX.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TRAINING.DATABASE/1.0.0": {
+      "type": "project",
+      "path": "../TRAINING.DATABASE/TRAINING.DATABASE.csproj",
+      "msbuildProject": "../TRAINING.DATABASE/TRAINING.DATABASE.csproj"
+    },
+    "TRAINING.SYNTAX/1.0.0": {
+      "type": "project",
+      "path": "../TRAINING.SYNTAX/TRAINING.SYNTAX.csproj",
+      "msbuildProject": "../TRAINING.SYNTAX/TRAINING.SYNTAX.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "TRAINING.DATABASE >= 1.0.0",
+      "TRAINING.SYNTAX >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\TOMI\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\TOMI\\source\\repos\\TRAINING\\TRAINING.ENTRY\\TRAINING.ENTRY.csproj",
+      "projectName": "TRAINING.ENTRY",
+      "projectPath": "C:\\Users\\TOMI\\source\\repos\\TRAINING\\TRAINING.ENTRY\\TRAINING.ENTRY.csproj",
+      "packagesPath": "C:\\Users\\TOMI\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\TOMI\\source\\repos\\TRAINING\\TRAINING.ENTRY\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\TOMI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "C:\\Users\\TOMI\\source\\repos\\TRAINING\\TRAINING.DATABASE\\TRAINING.DATABASE.csproj": {
+              "projectPath": "C:\\Users\\TOMI\\source\\repos\\TRAINING\\TRAINING.DATABASE\\TRAINING.DATABASE.csproj"
+            },
+            "C:\\Users\\TOMI\\source\\repos\\TRAINING\\TRAINING.SYNTAX\\TRAINING.SYNTAX.csproj": {
+              "projectPath": "C:\\Users\\TOMI\\source\\repos\\TRAINING\\TRAINING.SYNTAX\\TRAINING.SYNTAX.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\TOMI\source\repos\TRAINING\TRAINING.ENTRY\bin\Debug\netcoreapp3.1\TRAINING.ENTRY.exe
+C:\Users\TOMI\source\repos\TRAINING\TRAINING.ENTRY\bin\Debug\netcoreapp3.1\TRAINING.ENTRY.deps.json
+C:\Users\TOMI\source\repos\TRAINING\TRAINING.ENTRY\bin\Debug\netcoreapp3.1\TRAINING.ENTRY.runtimeconfig.json
+C:\Users\TOMI\source\repos\TRAINING\TRAINING.ENTRY\bin\Debug\netcoreapp3.1\TRAINING.ENTRY.runtimeconfig.dev.json
+C:\Users\TOMI\source\repos\TRAINING\TRAINING.ENTRY\bin\Debug\netcoreapp3.1\TRAINING.ENTRY.dll
+C:\Users\TOMI\source\repos\TRAINING\TRAINING.ENTRY\bin\Debug\netcoreapp3.1\TRAINING.ENTRY.pdb
+C:\Users\TOMI\source\repos\TRAINING\TRAINING.ENTRY\obj\Debug\netcoreapp3.1\TRAINING.ENTRY.csprojAssemblyReference.cache
+C:\Users\TOMI\source\repos\TRAINING\TRAINING.ENTRY\obj\Debug\netcoreapp3.1\TRAINING.ENTRY.AssemblyInfoInputs.cache
+C:\Users\TOMI\source\repos\TRAINING\TRAINING.ENTRY\obj\Debug\netcoreapp3.1\TRAINING.ENTRY.AssemblyInfo.cs
+C:\Users\TOMI\source\repos\TRAINING\TRAINING.ENTRY\obj\Debug\netcoreapp3.1\TRAINING.ENTRY.dll
+C:\Users\TOMI\source\repos\TRAINING\TRAINING.ENTRY\obj\Debug\netcoreapp3.1\TRAINING.ENTRY.pdb
+C:\Users\TOMI\source\repos\TRAINING\TRAINING.ENTRY\bin\Debug\netcoreapp3.1\TRAINING.DATABASE.dll
+C:\Users\TOMI\source\repos\TRAINING\TRAINING.ENTRY\bin\Debug\netcoreapp3.1\TRAINING.SYNTAX.dll
+C:\Users\TOMI\source\repos\TRAINING\TRAINING.ENTRY\bin\Debug\netcoreapp3.1\TRAINING.DATABASE.pdb
+C:\Users\TOMI\source\repos\TRAINING\TRAINING.ENTRY\bin\Debug\netcoreapp3.1\TRAINING.SYNTAX.pdb
+C:\Users\TOMI\source\repos\TRAINING\TRAINING.ENTRY\obj\Debug\netcoreapp3.1\TRAINING.ENTRY.csproj.CopyComplete

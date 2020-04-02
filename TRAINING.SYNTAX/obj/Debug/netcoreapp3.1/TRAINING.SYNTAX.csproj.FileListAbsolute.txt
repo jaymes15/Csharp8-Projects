@@ -1,0 +1,8 @@
+C:\Users\TOMI\source\repos\TRAINING\TRAINING.SYNTAX\bin\Debug\netcoreapp3.1\TRAINING.SYNTAX.deps.json
+C:\Users\TOMI\source\repos\TRAINING\TRAINING.SYNTAX\bin\Debug\netcoreapp3.1\TRAINING.SYNTAX.dll
+C:\Users\TOMI\source\repos\TRAINING\TRAINING.SYNTAX\bin\Debug\netcoreapp3.1\TRAINING.SYNTAX.pdb
+C:\Users\TOMI\source\repos\TRAINING\TRAINING.SYNTAX\obj\Debug\netcoreapp3.1\TRAINING.SYNTAX.csprojAssemblyReference.cache
+C:\Users\TOMI\source\repos\TRAINING\TRAINING.SYNTAX\obj\Debug\netcoreapp3.1\TRAINING.SYNTAX.AssemblyInfoInputs.cache
+C:\Users\TOMI\source\repos\TRAINING\TRAINING.SYNTAX\obj\Debug\netcoreapp3.1\TRAINING.SYNTAX.AssemblyInfo.cs
+C:\Users\TOMI\source\repos\TRAINING\TRAINING.SYNTAX\obj\Debug\netcoreapp3.1\TRAINING.SYNTAX.dll
+C:\Users\TOMI\source\repos\TRAINING\TRAINING.SYNTAX\obj\Debug\netcoreapp3.1\TRAINING.SYNTAX.pdb
