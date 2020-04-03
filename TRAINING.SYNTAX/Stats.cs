@@ -33,11 +33,11 @@ namespace TRAINING.SYNTAX
 
             }
 
-            /*   meanCalculator(listOfNumbers);
+               meanCalculator(listOfNumbers);
 
                meadianCalculator(listOfNumbers);
-                */
-            modeCalculator(listOfNumbers);
+               
+               modeCalculator(listOfNumbers);
 
 
 
@@ -111,6 +111,12 @@ namespace TRAINING.SYNTAX
                         WriteLine();
                         Write($"{listOfNumbers[i],8}");
                         Write($"{counter,8}");
+                        Write("\t");
+                        Write("=>\t");
+                        for(var d=0; d < counter; d++)
+                        {
+                            Write("*");
+                        }
                     }
                     //WriteLine();
                     //WriteLine($"{counter}");
