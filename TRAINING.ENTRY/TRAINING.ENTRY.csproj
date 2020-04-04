@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
@@ -7,6 +7,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\TRAINING.DATABASE\TRAINING.DATABASE.csproj" />
+    <ProjectReference Include="..\TRAINING.INFRASTURE\TRAINING.INFRASTURE.csproj" />
     <ProjectReference Include="..\TRAINING.SYNTAX\TRAINING.SYNTAX.csproj" />
   </ItemGroup>
 

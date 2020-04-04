@@ -1,0 +1,8 @@
+C:\Users\TOMI\source\repos\TRAINING\TRAINING.INFRASTURE\bin\Debug\netcoreapp3.1\TRAINING.INFRASTURE.deps.json
+C:\Users\TOMI\source\repos\TRAINING\TRAINING.INFRASTURE\bin\Debug\netcoreapp3.1\TRAINING.INFRASTURE.dll
+C:\Users\TOMI\source\repos\TRAINING\TRAINING.INFRASTURE\bin\Debug\netcoreapp3.1\TRAINING.INFRASTURE.pdb
+C:\Users\TOMI\source\repos\TRAINING\TRAINING.INFRASTURE\obj\Debug\netcoreapp3.1\TRAINING.INFRASTURE.csprojAssemblyReference.cache
+C:\Users\TOMI\source\repos\TRAINING\TRAINING.INFRASTURE\obj\Debug\netcoreapp3.1\TRAINING.INFRASTURE.AssemblyInfoInputs.cache
+C:\Users\TOMI\source\repos\TRAINING\TRAINING.INFRASTURE\obj\Debug\netcoreapp3.1\TRAINING.INFRASTURE.AssemblyInfo.cs
+C:\Users\TOMI\source\repos\TRAINING\TRAINING.INFRASTURE\obj\Debug\netcoreapp3.1\TRAINING.INFRASTURE.dll
+C:\Users\TOMI\source\repos\TRAINING\TRAINING.INFRASTURE\obj\Debug\netcoreapp3.1\TRAINING.INFRASTURE.pdb

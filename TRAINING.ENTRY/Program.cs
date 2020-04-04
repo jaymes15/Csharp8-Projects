@@ -1,6 +1,7 @@
 ﻿using System;
 using TRAINING.SYNTAX;
 using static System.Console;
+using TRAINING.INFRASTURE;
 
 namespace TRAINING.ENTRY
 {
@@ -12,8 +13,14 @@ namespace TRAINING.ENTRY
             //Arrays st = new Arrays();
             // st.MultiplicationTableOnedimensionalArray();
             //st.MultiplicationTableMultidimensionalArray();
-            Stats num = new Stats();
-            num.numberGenerator();
+           // Stats num = new Stats();
+           //num.numberGenerator();
+           Student student = new Undergraduate();
+        
+            
+
+
+
 
 
         }

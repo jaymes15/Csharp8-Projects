@@ -11,6 +11,16 @@
           "bin/placeholder/TRAINING.DATABASE.dll": {}
         }
       },
+      "TRAINING.INFRASTURE/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/TRAINING.INFRASTURE.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TRAINING.INFRASTURE.dll": {}
+        }
+      },
       "TRAINING.SYNTAX/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
@@ -29,6 +39,11 @@
       "path": "../TRAINING.DATABASE/TRAINING.DATABASE.csproj",
       "msbuildProject": "../TRAINING.DATABASE/TRAINING.DATABASE.csproj"
     },
+    "TRAINING.INFRASTURE/1.0.0": {
+      "type": "project",
+      "path": "../TRAINING.INFRASTURE/TRAINING.INFRASTURE.csproj",
+      "msbuildProject": "../TRAINING.INFRASTURE/TRAINING.INFRASTURE.csproj"
+    },
     "TRAINING.SYNTAX/1.0.0": {
       "type": "project",
       "path": "../TRAINING.SYNTAX/TRAINING.SYNTAX.csproj",
@@ -38,6 +53,7 @@
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "TRAINING.DATABASE >= 1.0.0",
+      "TRAINING.INFRASTURE >= 1.0.0",
       "TRAINING.SYNTAX >= 1.0.0"
     ]
   },
@@ -74,6 +90,9 @@
           "projectReferences": {
             "C:\\Users\\TOMI\\source\\repos\\TRAINING\\TRAINING.DATABASE\\TRAINING.DATABASE.csproj": {
               "projectPath": "C:\\Users\\TOMI\\source\\repos\\TRAINING\\TRAINING.DATABASE\\TRAINING.DATABASE.csproj"
+            },
+            "C:\\Users\\TOMI\\source\\repos\\TRAINING\\TRAINING.INFRASTURE\\TRAINING.INFRASTURE.csproj": {
+              "projectPath": "C:\\Users\\TOMI\\source\\repos\\TRAINING\\TRAINING.INFRASTURE\\TRAINING.INFRASTURE.csproj"
             },
             "C:\\Users\\TOMI\\source\\repos\\TRAINING\\TRAINING.SYNTAX\\TRAINING.SYNTAX.csproj": {
               "projectPath": "C:\\Users\\TOMI\\source\\repos\\TRAINING\\TRAINING.SYNTAX\\TRAINING.SYNTAX.csproj"

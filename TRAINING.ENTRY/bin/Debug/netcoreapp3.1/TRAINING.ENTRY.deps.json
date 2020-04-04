@@ -9,6 +9,7 @@
       "TRAINING.ENTRY/1.0.0": {
         "dependencies": {
           "TRAINING.DATABASE": "1.0.0",
+          "TRAINING.INFRASTURE": "1.0.0",
           "TRAINING.SYNTAX": "1.0.0"
         },
         "runtime": {
@@ -18,6 +19,11 @@
       "TRAINING.DATABASE/1.0.0": {
         "runtime": {
           "TRAINING.DATABASE.dll": {}
+        }
+      },
+      "TRAINING.INFRASTURE/1.0.0": {
+        "runtime": {
+          "TRAINING.INFRASTURE.dll": {}
         }
       },
       "TRAINING.SYNTAX/1.0.0": {
@@ -34,6 +40,11 @@
       "sha512": ""
     },
     "TRAINING.DATABASE/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TRAINING.INFRASTURE/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
