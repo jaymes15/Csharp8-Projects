@@ -4,6 +4,17 @@
     "C:\\Users\\TOMI\\source\\repos\\TRAINING\\TRAINING.INFRASTURE\\TRAINING.INFRASTURE.csproj": {}
   },
   "projects": {
+    "C:\\Users\\TOMI\\source\\repos\\TRAINING\\TRAINING.DATABASE\\TRAINING.DATABASE.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\TOMI\\source\\repos\\TRAINING\\TRAINING.DATABASE\\TRAINING.DATABASE.csproj",
+        "projectName": "TRAINING.DATABASE",
+        "projectPath": "C:\\Users\\TOMI\\source\\repos\\TRAINING\\TRAINING.DATABASE\\TRAINING.DATABASE.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
     "C:\\Users\\TOMI\\source\\repos\\TRAINING\\TRAINING.INFRASTURE\\TRAINING.INFRASTURE.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -30,7 +41,11 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\TOMI\\source\\repos\\TRAINING\\TRAINING.DATABASE\\TRAINING.DATABASE.csproj": {
+                "projectPath": "C:\\Users\\TOMI\\source\\repos\\TRAINING\\TRAINING.DATABASE\\TRAINING.DATABASE.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

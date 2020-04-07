@@ -4,7 +4,7 @@ using System.Text;
 
 namespace TRAINING.INFRASTURE
 {
-    public class Graduate : Student
+    public class Graduate 
     {
     }
 }

@@ -1,11 +1,29 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "TRAINING.DATABASE/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/TRAINING.DATABASE.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TRAINING.DATABASE.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "TRAINING.DATABASE/1.0.0": {
+      "type": "project",
+      "path": "../TRAINING.DATABASE/TRAINING.DATABASE.csproj",
+      "msbuildProject": "../TRAINING.DATABASE/TRAINING.DATABASE.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "TRAINING.DATABASE >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\TOMI\\.nuget\\packages\\": {},
@@ -37,7 +55,11 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\TOMI\\source\\repos\\TRAINING\\TRAINING.DATABASE\\TRAINING.DATABASE.csproj": {
+              "projectPath": "C:\\Users\\TOMI\\source\\repos\\TRAINING\\TRAINING.DATABASE\\TRAINING.DATABASE.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
