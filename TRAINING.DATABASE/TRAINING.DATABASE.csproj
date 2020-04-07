@@ -143,9 +143,20 @@
     <Compile Include="Migrations\20200407065724_InitialMigration.designer.cs">
       <DependentUpon>20200407065724_InitialMigration.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\20200407121350_listOfCourses.cs" />
+    <Compile Include="Migrations\20200407121350_listOfCourses.designer.cs">
+      <DependentUpon>20200407121350_listOfCourses.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\20200407124200_listOfCourses0.cs" />
+    <Compile Include="Migrations\20200407124200_listOfCourses0.designer.cs">
+      <DependentUpon>20200407124200_listOfCourses0.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\20200407165924_NewDb.cs" />
+    <Compile Include="Migrations\20200407165924_NewDb.designer.cs">
+      <DependentUpon>20200407165924_NewDb.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\TrainningContextModelSnapshot.cs" />
     <Compile Include="Models\Student.cs" />
-    <Compile Include="Models\UnderGraduateStudent.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

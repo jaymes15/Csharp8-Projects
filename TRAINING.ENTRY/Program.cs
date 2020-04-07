@@ -16,10 +16,14 @@ namespace TRAINING.ENTRY
             //st.MultiplicationTableMultidimensionalArray();
             // Stats num = new Stats();
             //num.numberGenerator();
-           
+
             // WriteLine(student.Name);
+            StudentController studentController = new StudentController();
+            studentController.GetAllStudent();
 
 
+
+         
 
 
 

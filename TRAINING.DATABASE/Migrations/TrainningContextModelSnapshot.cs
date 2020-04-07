@@ -35,24 +35,6 @@ namespace TRAINING.DATABASE.Migrations
 
                     b.ToTable("Student");
                 });
-
-            modelBuilder.Entity("TRAINING.DATABASE.Models.UnderGraduateStudent", b =>
-                {
-                    b.Property<int>("ID")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int")
-                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
-
-                    b.Property<int>("Level")
-                        .HasColumnType("int");
-
-                    b.Property<string>("department")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.HasKey("ID");
-
-                    b.ToTable("UnderGraduateStudent");
-                });
 #pragma warning restore 612, 618
         }
     }
